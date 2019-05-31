@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h1><center>POLÍTICA DE PRIVACIDADE</center></h1>
+<h1><center>POLITICA DE PRIVACIDADE</center></h1>
 <p>
 <blockquote>
 <p>O aplicativo Mirai Scanner possui como intuito auxiliar no desenvolvimento de um trabalho de conclusão de curso no campo da Ciência da Computação intitulado como “Um estudo sobre botnets para Internet das Coisas” orientado pelo professor Doutor Rodrigo Sanches Miani e orientando Antonio Carlos Campos da Silva Junior.
