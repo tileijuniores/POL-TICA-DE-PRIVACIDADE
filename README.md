@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <h1><center>POLITICA DE PRIVACIDADE</center></h1>
@@ -9,6 +9,4 @@
 <p>O projeto em questão foi hospedado no Heroku, uma plataforma cloud, e essa vai ser responsável pelo armazenamento e também a segurança dos dados coletados. As informações adquiridas a partir da utilização do aplicativo Mirai Scanner serão utilizadas para análises e serão apresentadas como parte integrante do trabalho de conclusão de curso do acadêmico citado anteriormente. Pode se dizer que, posteriormente, esses mesmos dados podem vir a serem expostos em outros projetos, como artigos e similares. 
 <p>Desse modo, o usuário se torna ciente que seus dados poderão ser utilizados nos itens mencionados anteriormente.
   
-</blockquote>
-</head>
-</html>
+
