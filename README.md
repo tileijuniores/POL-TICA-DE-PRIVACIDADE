@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/tileijuniores/POL-TICA-DE-PRIVACIDADE/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tileijuniores/POL-TICA-DE-PRIVACIDADE/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+<h1><center>POLÍTICA DE PRIVACIDADE</center></h1>
+<p>
+<blockquote>
+<p>O aplicativo Mirai Scanner possui como intuito auxiliar no desenvolvimento de um trabalho de conclusão de curso no campo da Ciência da Computação intitulado como “Um estudo sobre botnets para Internet das Coisas” orientado pelo professor Doutor Rodrigo Sanches Miani e orientando Antonio Carlos Campos da Silva Junior.
+<p>O aplicativo em questão, Mirai Scanner, é derivado de pesquisas realizadas por alunos de graduação (Antônio Carlos Campos Silva Júnior, Gabriel Miranda Costa e Marcelo Prado) da Faculdade de Computação (FACOM) - UFU e conduzidas pelo professor Dr. Rodrigo Sanches Miani. O Mirai Scanner é utilizado para verificação de dispositivos vulneráveis ao malware Mirai em redes sem-fio.
+<p>O projeto em questão foi hospedado no Heroku, uma plataforma cloud, e essa vai ser responsável pelo armazenamento e também a segurança dos dados coletados. As informações adquiridas a partir da utilização do aplicativo Mirai Scanner serão utilizadas para análises e serão apresentadas como parte integrante do trabalho de conclusão de curso do acadêmico citado anteriormente. Pode se dizer que, posteriormente, esses mesmos dados podem vir a serem expostos em outros projetos, como artigos e similares. 
+<p>Desse modo, o usuário se torna ciente que seus dados poderão ser utilizados nos itens mencionados anteriormente.
+</blockquote>
+</head>
+</html>
